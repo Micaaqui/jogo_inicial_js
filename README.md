@@ -9,7 +9,7 @@
 * CSS
 * JavaScript
 
-## Nessa versão usamos:
+## Nessa 1° versão usamos:
 * `alert`
 * `parseInt (Math.random()* numeroMaximo + 1)`
 * `console.log`
