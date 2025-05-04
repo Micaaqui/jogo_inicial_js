@@ -1,15 +1,15 @@
 ## Screenshots
-![Screenshot da tela inicial do Alura Plus](print.png)
+![Screenshot of the Alura Plus home screen](print.png)
 
 <hr>
-<p align="center">Um jogo de adivinhação, para descobrir qual é o número aleatório entre 1 e 10.</p>
+<p align="center">A guessing game to find out which random number is between 1 and 10.</p>
 
-## Tecnologias
+## Technology
 * HTML
 * CSS
 * JavaScript
 
-## Nessa 1° versão usamos:
+## In this 1st version we used:
 * `alert`
 * `parseInt (Math.random()* numeroMaximo + 1)`
 * `console.log`
